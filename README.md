@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">I'm a **Junior Frontend Developer** with 2 years of experience. I started with **Vue**, but now I mainly focus on building apps using **Next.js** and **Capacitor**. Lately, I'm also expanding my skills towards **fullstack development**, exploring backend and cloud technologies. I enjoy working on real-world projects that combine clean UI with solid architecture.</h3>
+<h3 align="center">
+  <strong>
+    I'm a Junior Frontend Developer with 2 years of experience. I started with Vue, but now I mainly focus on building apps using Next.js and Capacitor. Lately, I'm also expanding my skills towards fullstack development, exploring backend and cloud technologies. I enjoy working on real-world projects that combine clean UI with solid architecture.
+  </strong>
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubakosmal9&label=Profile%20views&color=0e75b6&style=flat" alt="kubakosmal9" /> </p>
 
